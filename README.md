@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/masthead.svg" width="100%" alt="islanddddddd — Everyday AI stack &amp; intelligent agents">
+  <img src="./assets/masthead.svg" width="100%" alt="wouigw — Everyday AI stack &amp; intelligent agents">
 </div>
 
 <br>
@@ -18,4 +18,4 @@ Building with AI agents: tooling, automation and developer workflows. Most of wh
 
 <br>
 
-<p align="center"><sub>islanddddddd · China · 2026</sub></p>
+<p align="center"><sub>wouigw · China · 2026</sub></p>

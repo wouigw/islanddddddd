@@ -1,7 +1,7 @@
 # GitHub Profile Configuration Rules / 个人主页配置与约束规范
 
 - **Owner**: wouigw
-- **Display Name**: islanddddddd
+- **Display Name**: wouigw
 
 ## 🚫 Excluded Projects (绝对禁止加入主页展示的项目)
 请勿在 GitHub 主页（README.md）中展示或列出以下项目：

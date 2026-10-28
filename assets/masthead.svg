@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="ttl">
-  <title id="ttl">islanddddddd — Everyday AI stack &amp; intelligent agents</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="ttl">
+  <title id="ttl">wouigw — Everyday AI stack &amp; intelligent agents</title>
   <style>
     .ink { fill: #1f2328; }
     .muted { fill: #57606a; }
@@ -10,16 +10,16 @@
       .rule { stroke: #30363d; }
     }
     .meta { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 13px; letter-spacing: 3.5px; }
-    .masthead { font-family: Georgia, "Times New Roman", serif; font-size: 108px; letter-spacing: 6px; }
+    .masthead { font-family: Georgia, "Times New Roman", serif; font-size: 176px; letter-spacing: 6px; }
     .kicker { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 15px; letter-spacing: 7px; }
   </style>
 
-  <text class="meta muted" x="56" y="70">EST. 2026</text>
-  <text class="meta muted" x="1144" y="70" text-anchor="end">CHINA</text>
-  <line class="rule" x1="56" y1="88" x2="1144" y2="88"/>
+  <text class="meta muted" x="56" y="64">EST. 2026</text>
+  <text class="meta muted" x="1144" y="64" text-anchor="end">CHINA</text>
+  <line class="rule" x1="56" y1="82" x2="1144" y2="82"/>
 
-  <text class="masthead ink" x="600" y="186" text-anchor="middle">islanddddddd</text>
+  <text class="masthead ink" x="600" y="252" text-anchor="middle">wouigw</text>
 
-  <text class="kicker muted" x="600" y="246" text-anchor="middle">EVERYDAY AI STACK &amp; INTELLIGENT AGENTS</text>
-  <line class="rule" x1="56" y1="282" x2="1144" y2="282"/>
+  <text class="kicker muted" x="600" y="338" text-anchor="middle">EVERYDAY AI STACK &amp; INTELLIGENT AGENTS</text>
+  <line class="rule" x1="56" y1="378" x2="1144" y2="378"/>
 </svg>
