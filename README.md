@@ -1,26 +1,12 @@
 <div align="center">
-  <img src="./assets/terminal.svg" alt="wouigw@github:~$ whoami -> islanddddddd" width="100%">
+
+<h1>islanddddddd</h1>
+
+Everyday AI stack &amp; intelligent agents.<br>
+Building. Exploring. Shipping.
+
+<hr>
+
+<sub>DeepSeek Harness &nbsp;·&nbsp; Google Antigravity &nbsp;·&nbsp; Claude Code &nbsp;·&nbsp; WorkBuddy</sub>
+
 </div>
-
-<br>
-
-### `$ cat ~/.stackrc`
-
-```text
-deepseek-harness      agent harness / daily driver
-google-antigravity    AI-native editor
-claude-code           terminal agent
-workbuddy             workflow companion
-```
-
-### `$ cat ~/.quote`
-
-```text
-stay hungry, stay curious,
-and let code solve the repetitive.
-```
-
-```text
-wouigw@github:~$ exit
-logout
-```
