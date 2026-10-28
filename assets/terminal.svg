@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="ttl">
+  <title id="ttl">wouigw@github:~$ whoami — islanddddddd</title>
+  <style>
+    .win { fill: #0d1117; stroke: #21262d; }
+    .bar { fill: #161b22; }
+    .dot { fill: #30363d; }
+    .rule { stroke: #21262d; }
+    .prompt { fill: #8b949e; }
+    .cmd { fill: #e6edf3; }
+    .out { fill: #c9d1d9; }
+    .dim { fill: #6e7681; }
+    .cursor { fill: #8b949e; animation: blink 1.2s step-end infinite; }
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 21px; }
+    @keyframes blink { 0%, 49% { opacity: 1 } 50%, 100% { opacity: 0 } }
+  </style>
+
+  <rect class="win" x="0.5" y="0.5" width="1199" height="399" rx="12" stroke-width="1"/>
+  <path class="bar" d="M0.5 12.5v32h1199v-32a12 12 0 0 0-12-12h-1175a12 12 0 0 0-12 12z"/>
+  <line class="rule" x1="0.5" y1="44.5" x2="1199.5" y2="44.5"/>
+
+  <circle class="dot" cx="26" cy="22.5" r="5.5"/>
+  <circle class="dot" cx="46" cy="22.5" r="5.5"/>
+  <circle class="dot" cx="66" cy="22.5" r="5.5"/>
+  <text class="dim" x="1100" y="30" font-size="15" text-anchor="end">bash — 80x24</text>
+
+  <text x="32" y="100">
+    <tspan class="prompt">wouigw@github:~$</tspan><tspan class="cmd"> whoami</tspan>
+  </text>
+  <text class="out" x="32" y="136">islanddddddd</text>
+
+  <text x="32" y="188">
+    <tspan class="prompt">wouigw@github:~$</tspan><tspan class="cmd"> cat ~/.profile</tspan>
+  </text>
+  <text class="out" x="32" y="224" xml:space="preserve">role       everyday AI tinkerer</text>
+  <text class="out" x="32" y="256" xml:space="preserve">focus      intelligent agents / automation / tooling</text>
+  <text class="out" x="32" y="288" xml:space="preserve">location   China</text>
+
+  <text x="32" y="352">
+    <tspan class="prompt">wouigw@github:~$</tspan>
+  </text>
+  <rect class="cursor" x="224" y="335" width="11" height="22"/>
+</svg>
