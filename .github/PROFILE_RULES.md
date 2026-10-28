@@ -1,6 +1,6 @@
 # GitHub Profile Configuration Rules / 个人主页配置与约束规范
 
-- **Owner**: islanddddddd
+- **Owner**: wouigw
 - **Display Name**: islanddddddd
 
 ## 🚫 Excluded Projects (绝对禁止加入主页展示的项目)

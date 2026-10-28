@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=islanddddddd&style=flat-square&label=Profile+Views&color=0ea5e9" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=wouigw&style=flat-square&label=Profile+Views&color=0ea5e9" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Building_%26_Exploring-brightgreen?style=flat-square&logo=github" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Everyday_AI_Stack-blueviolet?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Location-China_%F0%9F%87%A8%F0%9F%87%B3-orange?style=flat-square" alt="Location" />
@@ -35,9 +35,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/islanddddddd/islanddddddd/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/islanddddddd/islanddddddd/output/github-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/islanddddddd/islanddddddd/output/github-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wouigw/islanddddddd/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wouigw/islanddddddd/output/github-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/wouigw/islanddddddd/output/github-snake-dark.svg" width="100%">
   </picture>
 </div>
 
